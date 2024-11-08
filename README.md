@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  📚 Linguagens de Programação: `Python`, `C`, `C++`, `Java`
+  📚 Linguagens de Programação: **Python**, **C**, **C++**, **Java**
 </p>
 
 <p align="left">
