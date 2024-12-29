@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, I'm Leonardo Sauma</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=18F700&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Dev+Full-Stack" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=066EF7&center=true&vCenter=true&width=450&lines=Software+Engineering+Student;Dev+Front-End" alt="Typing SVG" /></a>
 </p>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrbTE2c2EycGJwNGM1aWJ4ZzhzdHEwMXYxaGJhbTgxdnZpczF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJne2MeLtb4EPwq4ef/giphy.gif" width ="30"><b> Sobre Mim</b>
