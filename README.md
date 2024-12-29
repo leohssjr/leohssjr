@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=18F700&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Dev+Full-Stack" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg5cmlnZmJua29jbGd4YnpvOTBxM25ka2xqdGF4eXJmbnd3OXF0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOEuhmlxEd8pU85S3T/giphy.gif" width ="25"><b> Sobre Mim</b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrbTE2c2EycGJwNGM1aWJ4ZzhzdHEwMXYxaGJhbTgxdnZpczF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJne2MeLtb4EPwq4ef/giphy.gif" width ="30"><b> Sobre Mim</b>
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <br>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJlY214djRwN3hrb2tyMmNoN3hucTgzY2ZheDZlZ3JpOGo0czJtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jo2E9OUsboHETFWmyj/giphy.gif" width ="25"><b> Contato</b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM202ZHl3ejZ6cWhmb2NjYXg3NXFncHpicTFzNTRnYWU0YmVrbGJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kE0rZ7eCRs9PtJHRN7/giphy.gif" width ="30"><b> Contato</b>
 
 <div align='left'>
 
