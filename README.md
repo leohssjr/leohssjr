@@ -9,7 +9,7 @@
 
 <br>
 
-- Sou estudante do 4° semestre de Engenharia de Software na Universidade de Brasília (UnB)
+- Sou estudante do 5° semestre de Engenharia de Software na Universidade de Brasília (UnB)
 - Atualmente estou trabalhando no projeto [Chama Control](https://github.com/unb-mds/2024-2-ChamaControl)
 - Aprofundando conhecimentos em front-end, com foco em tecnologias modernas e boas práticas para criação de interfaces intuitivas e eficientes com o mais atualizado que o mercado oferece.
 
