@@ -5,12 +5,19 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=066EF7&center=true&vCenter=true&width=450&lines=Software+Engineering+Student;Dev+Front-End" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/leohssjr">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leohssjr&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leohssjr&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&langs_count=16&hide=javascript,HTML,css,makefile,cmake"/>
+  </a>
+</div>
+
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrbTE2c2EycGJwNGM1aWJ4ZzhzdHEwMXYxaGJhbTgxdnZpczF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJne2MeLtb4EPwq4ef/giphy.gif" width ="30"><b> Sobre Mim</b>
 
 <br>
 
-- Sou estudante do 5° semestre de Engenharia de Software na Universidade de Brasília (UnB)
-- Atualmente estou trabalhando no projeto [Touristeer](https://github.com/mdsreq-fga-unb/2025.1-T01-Touristeer-)
+- Sou estudante do 6° semestre de Engenharia de Software na Universidade de Brasília (UnB).
+- Desenvolvedor PL/SQL com conhecimento avançado em Oracle APEX.
 - Aprofundando conhecimentos em front-end, com foco em tecnologias modernas e boas práticas para criação de interfaces intuitivas e eficientes com o mais atualizado que o mercado oferece.
 
 <br>
@@ -21,7 +28,8 @@
 <p align="center">
 
 - **Languages**:
-    
+  
+    ![PL/SQL](https://img.shields.io/badge/PLSQL%20-%2314354C.svg?style=for-the-badge&logo=plsql&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
