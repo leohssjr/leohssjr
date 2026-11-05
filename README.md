@@ -1,94 +1,70 @@
+<a href="https://github.com/leohssjr">
+  <img src="assets/hero.svg" width="100%" alt="Leonardo Sauma. Consulta SQL que retorna: Engenharia de Software na UnB, 8º semestre, trabalho no TCU com Oracle APEX e PL/SQL." />
+</a>
 
-<h1 align="center"><b>Hi, I'm Leonardo Sauma</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=066EF7&center=true&vCenter=true&width=450&lines=Software+Engineering+Student;Dev+Front-End" alt="Typing SVG" /></a>
+<br>
+
+Sou o Leonardo, estudante do 8º semestre de Engenharia de Software na Universidade de Brasília (UnB). Trabalho no Tribunal de Contas da União (TCU) como desenvolvedor Oracle APEX e PL/SQL.
+
+Fora do TCU, faço front-end com React, TypeScript e Astro. Na disciplina de TPPE, também trabalhei na API de um marketplace com NestJS e PostgreSQL.
+
+## Stack
+
+<table>
+  <tr>
+    <td><b>Banco e APEX</b><br><sub>Oracle APEX, PL/SQL, PostgreSQL</sub></td>
+    <td><img src="assets/oracle.svg" height="44" alt="Oracle APEX e PL/SQL" /> <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b><br><sub>Interfaces e sites</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,vite,html,css,bootstrap" height="44" alt="TypeScript, JavaScript, React, Astro, Tailwind CSS, Vite, HTML, CSS e Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Back-end e linguagens</b><br><sub>APIs, dados e algoritmos</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nest,py,java,c,cpp" height="44" alt="NestJS, Python, Java, C e C++" /></td>
+  </tr>
+  <tr>
+    <td><b>Dia a dia</b><br><sub>Versionamento e deploy</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,vercel" height="44" alt="Git, GitHub, Docker, Linux, Bash, VS Code e Vercel" /></td>
+  </tr>
+</table>
+
+## Projetos
+
+<p>
+<a href="https://github.com/TPPE-2026-1-Marketplace"><img src="assets/projeto-marketplace.svg" width="49%" alt="MarketPlace, TPPE, UnB, 2026/1. Marketplace feito em equipe. Tive 28 PRs aceitos, entre segurança da API, avaliações de produto e ranking de vendedores. NestJS, PostgreSQL, React e TypeScript." /></a>
+<a href="https://2024-2-chama-control.vercel.app/"><img src="assets/projeto-chamacontrol.svg" width="49%" alt="ChamaControl, MDS, UnB, 2024/2. Consulta de focos de queimadas no Brasil por região, estado, município, ano e mês, com registros de satélite desde 2003. JavaScript, Express, MySQL e Docker." /></a>
+<a href="https://github.com/leohssjr/SoccerStats"><img src="assets/projeto-soccerstats.svg" width="49%" alt="SoccerStats. Dados de jogadores do Brasileirão, rodada a rodada, de 2014 a 2017, em arquitetura medalhão: bronze, silver e gold. Python, PostgreSQL e Docker." /></a>
+<a href="https://github.com/leohssjr/2025.1-T01-Touristeer-"><img src="assets/projeto-touristeer.svg" width="49%" alt="Touristeer, UnB, 2025/1. Um Waze para turistas explorarem novos destinos. Coordenei e desenvolvi o front-end do app. JavaScript, Python e Vercel." /></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/leohssjr">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leohssjr&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leohssjr&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&langs_count=16&hide=javascript,HTML,css,makefile,cmake"/>
-  </a>
-</div>
-
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhrbTE2c2EycGJwNGM1aWJ4ZzhzdHEwMXYxaGJhbTgxdnZpczF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJne2MeLtb4EPwq4ef/giphy.gif" width ="30"><b> Sobre Mim</b>
+<details>
+<summary><b>Outros repositórios</b></summary>
 
 <br>
 
-- Sou estudante do 6° semestre de Engenharia de Software na Universidade de Brasília (UnB).
-- Desenvolvedor PL/SQL com conhecimento avançado em Oracle APEX.
-- Aprofundando conhecimentos em front-end, com foco em tecnologias modernas e boas práticas para criação de interfaces intuitivas e eficientes com o mais atualizado que o mercado oferece.
+- [**ImobFlux**](https://github.com/leohssjr/imobflux): especificação e pitch, para o SEBRAE Supernova, de um sistema que gera contratos de locação e de compra e venda a partir de clientes e imóveis já cadastrados.
+- [**LightUp-PDDLSolver**](https://github.com/leohssjr/LightUp-PDDLSolver): resolvedor em PDDL de mapas do jogo Light Up Akari, feito para a competição de Fundamentos Lógicos de Inteligência Artificial.
+- [**Competição de Programação**](https://github.com/leohssjr/Competicao-de-Programacao): soluções em C e C++ para problemas do BeeCrowd e do Codeforces.
+- [**SistemaCRUD**](https://github.com/leohssjr/SistemaCRUD): trabalho de Programação Orientada a Objetos em Java.
 
-<br>
+</details>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
+## No GitHub
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leohssjr&theme=github_dark" width="66%" alt="Resumo do perfil e gráfico de contribuições de leohssjr" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leohssjr&theme=github_dark" width="32%" alt="Estatísticas de commits, PRs e issues de leohssjr" />
+</p>
 
-- **Languages**:
-  
-    ![PL/SQL](https://img.shields.io/badge/PLSQL%20-%2314354C.svg?style=for-the-badge&logo=plsql&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-    
-- **Front-End Development**:
+## Contato
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+<p>
+  <a href="https://www.linkedin.com/in/leonardo-sauma-junior-1811ab267/"><img src="assets/contato-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://wa.me/61985311586"><img src="assets/contato-whatsapp.svg" height="44" alt="WhatsApp" /></a>
+  <a href="mailto:leonardosauma.juniord@gmail.com"><img src="assets/contato-gmail.svg" height="44" alt="Gmail" /></a>
 </p>
 
 <br>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM202ZHl3ejZ6cWhmb2NjYXg3NXFncHpicTFzNTRnYWU0YmVrbGJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kE0rZ7eCRs9PtJHRN7/giphy.gif" width ="30"><b> Contato</b>
-
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/leonardo-sauma-junior-1811ab267/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://wa.me/61985311586" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:leonardosauma.juniord@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-
-</ul>
-<br>
-</div>
+<img src="assets/commit.svg" width="100%" alt="SQL> COMMIT; Commit complete." />
